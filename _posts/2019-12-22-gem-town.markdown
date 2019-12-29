@@ -11,7 +11,7 @@ categories:
 这些素材会在更新完成后替换。
 没有更多的想法，只是把一些想法做成了游戏，或者说把做游戏当成了玩游戏。
 
-- **讨论区**： https://github.com/fur2/gemtown/issues
+- **讨论区**： [github.com/fur2/gemtown/issues](https://github.com/fur2/gemtown/issues)
 
 
 
@@ -19,25 +19,17 @@ categories:
 
 更新最快，但体验受网络制约。
 
-- 体验：https://gemtown.now.sh/
-- 日志：https://github.com/fur2/gemtown/commits/master
+- 体验：[gemtown.now.sh](https://gemtown.now.sh/)
+- 日志：[github.com/fur2/gemtown/commits](https://github.com/fur2/gemtown/commits/master)
 
 ## 💻 Windows（推荐）
 
-稳定更新，体验最佳。
-- 下载：https://github.com/fur2/gemtown/releases
+更新略慢，体验最佳。
+- 下载：[github.com/fur2/gemtown/releases](https://github.com/fur2/gemtown/releases)
 
 >  🚧 **重要**：同级的 `www/save` 文件夹用于存放存档，若不在同级将无法存档。
 
 ## 📱 Android
 
 仅大版本更新，体验受设备限制。
-- 下载：https://github.com/fur2/gemtown/releases
-
----
-
-![1.png](https://i.loli.net/2019/12/29/3fg6NiRmsEZYb4d.png)
-
-![2.png](https://i.loli.net/2019/12/29/EAtp1Ff9NlhUia6.png)
-
-![3.png](https://i.loli.net/2019/12/29/ugmJlcoRVPBUiEX.png)
+- 下载：[github.com/fur2/gemtown/releases](https://github.com/fur2/gemtown/releases)

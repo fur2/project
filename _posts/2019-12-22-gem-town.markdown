@@ -5,7 +5,7 @@ date:   2019-12-22
 categories:
 ---
 
-# 没有完成
+# 😅 尚未完成
 正在开发中……
 为了保持热情，角色使用了部分星露谷的[兽化mod素材](https://www.nexusmods.com/stardewvalley/mods/2561)，表示歉意。
 这些素材会在更新完成后替换。
@@ -14,8 +14,20 @@ categories:
 
 
 
-## 在线体验
+## 🌏 在线体验
 
 更新最快，但体验受网络制约。
 
-## Windows
+- 体验：https://gemtown.now.sh/
+- 日志：https://github.com/fur2/gemtown/commits/master
+
+## 💻 Windows（推荐）
+
+稳定更新，体验最佳。
+- 下载：https://github.com/fur2/gemtown/releases
+
+>  **重要**：同级的 `www/save` 文件夹用于存放存档，若不在同级将无法存档。
+
+## 📱 Android
+
+仅大版本更新，体验受设备限制。

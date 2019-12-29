@@ -9,9 +9,9 @@ categories:
 正在开发中……
 为了保持热情，角色使用了部分星露谷的[兽化mod素材](https://www.nexusmods.com/stardewvalley/mods/2561)，表示歉意。
 这些素材会在更新完成后替换。
-
-
 没有更多的想法，只是把一些想法做成了游戏，或者说把做游戏当成了玩游戏。
+
+- **讨论区**： https://github.com/fur2/gemtown/issues
 
 
 
@@ -27,7 +27,7 @@ categories:
 稳定更新，体验最佳。
 - 下载：https://github.com/fur2/gemtown/releases
 
->  🚧**重要**：同级的 `www/save` 文件夹用于存放存档，若不在同级将无法存档。
+>  🚧 **重要**：同级的 `www/save` 文件夹用于存放存档，若不在同级将无法存档。
 
 ## 📱 Android
 
@@ -36,8 +36,8 @@ categories:
 
 ---
 
-![](https://i.loli.net/2019/12/29/oH9kMxc7nmzGtSb.png)
+![1.png](https://i.loli.net/2019/12/29/3fg6NiRmsEZYb4d.png)
 
-![](https://i.loli.net/2019/12/29/EpS5qXI73NF24ya.png)
+![2.png](https://i.loli.net/2019/12/29/EAtp1Ff9NlhUia6.png)
 
-![](https://i.loli.net/2019/12/29/szN5SikOLvZWb87.png)
+![3.png](https://i.loli.net/2019/12/29/ugmJlcoRVPBUiEX.png)

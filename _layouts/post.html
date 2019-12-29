@@ -3,3 +3,19 @@ layout: default
 ---
 
 {{ content }}
+{{ content }}
+<div id="gitalk-container" class="gitalk">
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+        clientID: '9b59a736860b1ddf864a',
+        clientSecret: 'f5e7934d2a3e095fed713f1f3710cec50b1a23bf',
+        repo: 'project',
+        owner: 'fur2',
+        admin: ['fur2'],
+        id: location.pathname,      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+      
+      gitalk.render('gitalk-container')
+    </script>
+</div>
